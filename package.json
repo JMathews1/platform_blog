@@ -15,7 +15,7 @@
     "lint": "eslint ."
   },
     "engines": {
-    "node": ">=20.0.0"
+    "node": ">=18.14.1"
   },
   "dependencies": {
     "@astrojs/check": "^0.4.1",
