@@ -1,7 +1,7 @@
 ---
 author: James Mathews
-pubDatetime: 2024-02-01T09:05:53Z
-modDatetime: 2024-02-01T13:09:05.066Z
+pubDatetime: 2024-02-03T09:05:53Z
+modDatetime: 2024-02-03T13:09:05.066Z
 title: Azure Keyvault backend Deep Dive
 slug: azure-keyvault-backend
 featured: true
