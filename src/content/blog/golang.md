@@ -2,16 +2,16 @@
 author: James Mathews
 pubDatetime: 2024-02-03T21:46:53Z
 modDatetime: 2024-02-03T13:21:46.066Z
-title: Exploring Concurrency in Go: A Primer for Developers
-slug: azure-keyvault-backend
+title: Exploring Concurrency in Go - A Primer for Developers
+slug: golang-primer
 featured: true
 draft: false
 tags:
-  - networking
+  - golang
   - cloud
-  - Azure
-  - Az-204
-  - Keyvault
+  - programming
+  - languages
+  - concurrency
 description: A deep dive into azure keyvault backend
 ---
 
