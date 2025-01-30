@@ -12,7 +12,7 @@ tags:
   - programming
   - languages
   - concurrency
-description: A deep dive into azure keyvault backend
+description: A shallow dive into understanding concurrency in go
 ---
 
 This piece will be an initial explanation of concurreny in Golang, as part of a series, with a deeper dive on the other facets of the programming language to follow.
